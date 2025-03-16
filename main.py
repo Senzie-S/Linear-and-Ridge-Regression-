@@ -1,3 +1,6 @@
+# Main file
+# COMP.4220 Machine Learning
+
 import itertools, functools
 import numpy as np
 import matplotlib.pyplot as plt
